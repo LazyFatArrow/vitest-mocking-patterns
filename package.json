@@ -1,0 +1,22 @@
+{
+  "name": "vitest-mocking-patterns",
+  "private": true,
+  "version": "0.0.0",
+  "author": "Amenallah Hsoumi<amenallah.hsoumi@gmail.com>",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vitest": "^0.34.6"
+  },
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
